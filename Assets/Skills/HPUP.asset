@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d04d5f2888b800c48a76d74f42003600, type: 3}
+  m_Name: HPUP
+  m_EditorClassIdentifier: 
+  skillNo: 1
+  skillName: "\u8010\u4E45\u529BUP"
+  skillExplanation: "\u6700\u5927HP\u304C\u4E0A\u6607\u3059\u308B\u3000\u6D88\u8CBBSP5"
+  powerUpIcon: {fileID: 3614464194753714856, guid: 66bbc09fc0f551341b0adf4f1e201a51, type: 3}
+  sp: 5

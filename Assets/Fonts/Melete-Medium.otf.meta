@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 364f43bb678902a4bac78fa11595ab8b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Melete
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 736a965c087e72e40a599221f4e92e13, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

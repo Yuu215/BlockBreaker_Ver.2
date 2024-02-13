@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d04d5f2888b800c48a76d74f42003600, type: 3}
+  m_Name: TimeUP
+  m_EditorClassIdentifier: 
+  skillNo: 2
+  skillName: "\u30A2\u30A4\u30C6\u30E0\u52B9\u679C\u6642\u9593UP"
+  skillExplanation: "\u30A2\u30A4\u30C6\u30E0\u306E\u52B9\u679C\u6642\u9593\u304C\u4E0A\u6607\u3059\u308B\u3000\u6D88\u8CBBSP3"
+  powerUpIcon: {fileID: 59214660776661434, guid: 5c9dd97e8e297884b964a4ad13357e1e, type: 3}
+  sp: 3
